@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="addTimer">Add Timer</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds">seconds</string>
+    <string name="timeIsOver">Time is over</string>
+
+    <string name="timeRequired">Add time before including</string>
+
+</resources>
